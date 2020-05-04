@@ -1,0 +1,6 @@
+
+\.idea/
+
+*.pyc
+
+monkey_runner_py/results/
